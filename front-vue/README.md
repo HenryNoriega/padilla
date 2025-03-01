@@ -1,7 +1,7 @@
 # Autor
-- Nombre: Carlos Felipe Zing Meza  
-- Email: a23311061@uthermosillo.edu.mx
-- GitHub: [@CarlosZing](https://github.com/CarlosZing)
+- Nombre: Henry Erubiel Noriega Noriega  
+- Email: a23311070@uthermosillo.edu.mx
+- GitHub: [@HenryNoriega](https://github.com/HenryNoriega)
 
 # front-vue
 

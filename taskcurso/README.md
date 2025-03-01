@@ -1,7 +1,7 @@
 # Autor
-- Nombre: Carlos Felipe Zing Meza  
-- Email: a23311061@uthermosillo.edu.mx
-- GitHub: [@CarlosZing](https://github.com/CarlosZing)
+- Nombre: Henry Erubiel Noriega Noriega  
+- Email: a23311070@uthermosillo.edu.mx
+- GitHub: [@HenryNoriega](https://github.com/HenryNoriega)
 
 p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
